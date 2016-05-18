@@ -1,0 +1,8 @@
+hadoop jar /usr/local/vikasg/eclipse_workspace/WordCountMR/targets/maxtemp.jar com.learning.vikasg.DriverClass /mapreduce/input/input.txt /mapreduce/output
+
+
+hadoop jar /usr/local/vikasg/eclipse_workspace/HBaseMR/targets/UserCounts.jar com.learning.vikasg.DriverClass
+
+ClientProtos.Result
+
+org.apache.hadoop.hbase.protobuf.generated.ClientProtos$Result
